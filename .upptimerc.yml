@@ -1,16 +1,14 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: digitty-io # Your GitHub organization or username, where this repository lives
+repo: status.digitty.io # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: DIGITTY website
+    url: https://digitty.io
+  - name: DIGITTY production stage
+    url: https://http://digittyio-production.web.app/
+  - name: DIGITTY development stage
+    url: https://http://digittyio-development.web.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
